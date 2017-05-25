@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="iteco_auth:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="iteco_auth.war">
+      <element id="artifact" artifact-name="iteco_auth:war exploded" />
+    </root>
+  </artifact>
+</component>
